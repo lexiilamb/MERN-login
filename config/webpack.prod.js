@@ -24,3 +24,5 @@ module.exports = merge(commonConfig, {
     })
   ]
 });
+
+module.exports = config;

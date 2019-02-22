@@ -278,7 +278,8 @@ class Home extends Component {
 
     return (
       <div>
-        <p>Account</p>
+        <p>Welcome to your new accout!<br/>
+		Hope you find it useful.</p>
         <button onClick={this.logout}>Logout</button>
       </div>
     );
